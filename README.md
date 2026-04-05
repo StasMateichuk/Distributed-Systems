@@ -1,4 +1,4 @@
-# Distributed-Systems
+# MQ-server
 Програма підтримує такі команди:
 
 1. ping
