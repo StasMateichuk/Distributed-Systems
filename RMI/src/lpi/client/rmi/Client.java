@@ -7,7 +7,7 @@ import java.rmi.registry.Registry;
 import java.util.*;
 public class Client {
 
-    private static final String HOST = "100.64.161.89";
+    private static final String HOST = "10.211.95.89";
     private static final int PORT = 4321;
 
     private IServer server;
